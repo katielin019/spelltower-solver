@@ -15,11 +15,11 @@ The [original SpellTower](http://www.spelltower.com) differs a bit from the Puzz
 
 Things I'd like to implement
 -------------------
-[x] Change default board size to 9x13
-[x] Modify CSS to accommodate width > 8 columns
-[] Automatically distinguish rare tiles by color (JQXZ)
-[] Clear the entire row when a rare tile is used in a word
-[] Be able to toggle cells to indicate star tile status (2x, 3x, or 4x multiplier)
-[] Add solid blank tiles
-[] Clear solid blank tile when a word is made next to it
-[] Optimize strategy (maybe using backtracking) for full clear (1,000 pt bonus!)
+- [x] Change default board size to 9x13
+- [x] Modify CSS to accommodate width > 8 columns
+- [ ] Automatically distinguish rare tiles by color (JQXZ)
+- [ ] Clear the entire row when a rare tile is used in a word
+- [ ] Be able to toggle cells to indicate star tile status (2x, 3x, or 4x multiplier)
+- [ ] Add solid blank tiles
+- [ ] Clear solid blank tile when a word is made next to it
+- [ ] Optimize strategy (maybe using backtracking) for full clear (1,000 pt bonus!)
